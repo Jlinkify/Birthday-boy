@@ -1,1 +1,1 @@
-/* by rikanutyy */
+/* by Bru-C/Jlinkify */
